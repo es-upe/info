@@ -26,7 +26,7 @@ March 11    | Class
 March 18    | Class
 March 25    | Holidays
 April 1     | Class
-April 8     | Class
+April 8     | Robson Fidalgo
 April 15    | Class
 April 22    | Bridge
 April 29    | Class

@@ -16,7 +16,8 @@ No assigment this week, but there will be the regular mini-exam.
 *Recommended resources for the interested students*
 
 * [Who Needs an Architect?, by Martin Fowler](http://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
-* More recommendations from Robson will be added
+* Model-Driven Software Engineering book, by Marco Brambilla, Jordi Cabot, Manuel Wimmer. Suggested by Robson Fidalgo
+  * Chapters [1](http://pt.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-1-introduction), [2](http://www.slideshare.net/mbrambil/modeldriven-software-engineering-in-practice-chapter-2-mdse-principles), [3](http://www.slideshare.net/jcabot/model-driven-software-engineering-in-practice-chapter-3-mdse-use-cases), [4](http://www.slideshare.net/jcabot/modeldriven-software-engineering-in-practice-chapter-4), [5](http://www.slideshare.net/mbrambil/model-driven-software-engineering-in-practice-chapter-5-development-process), [6](http://www.slideshare.net/jcabot/mdse-bookslideschapter6), [7](http://www.slideshare.net/mbrambil/model-driven-software-engineering-in-practice-book-chapter-7-developing-your-own-modeling-language), [8](http://www.slideshare.net/jcabot/modeldriven-software-engineering-in-practice-chapter-8-modeltomodel-transformations), [9](https://www.slideshare.net/mbrambil/model-driven-software-engineering-in-practice-book-chapter-9-model-to-text-transformations-and-code-generation), [10](http://www.slideshare.net/jcabot/mdse-bookslideschapter10managingmodels)
 
 
 ## *Student suggestions*

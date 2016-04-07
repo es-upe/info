@@ -29,7 +29,7 @@ April 1     | Class
 April 8     | Robson Fidalgo
 April 15    | Class
 April 22    | Bridge
-April 29    | Class
+*April 26*    | Gustavo Carvalho (Tuesday)
 May 6       | Class
 May 13      | Class
 May 20      | Class
@@ -37,6 +37,7 @@ May 27      | Alexandre Maciel
 June 3      | Fernando Castor
 June 10     | Class
 June 17     | Seminar
+
 
 
 A breakdown for each week is available on their respective folders
@@ -62,9 +63,3 @@ Each class will be structured as follows
 1. Mini-exam on last week's topic
 2. Discussion on last week's topic
 3. Introduction to next week's topic
-
-
-## Other
-**TODO:** setup a mailing list
-
-**TODO:** define date for second chance

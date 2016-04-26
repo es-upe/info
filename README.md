@@ -31,9 +31,9 @@ April 15    | Class
 April 22    | Bridge
 *April 26*    | Gustavo Carvalho (Tuesday)
 May 6       | Class
-May 13      | Class
+May 13      | Alexandre Maciel
 May 20      | Class
-May 27      | Alexandre Maciel
+May 27      | Class
 June 3      | Fernando Castor
 June 10     | Seminar
 June 17     | Seminar

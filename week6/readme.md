@@ -2,6 +2,10 @@
 
 Week running from April 26th to May 3th.
 
+## Slides
+* [Metodologias Tradicional x Ágil- Comunicação](https://github.com/es-upe/info/blob/master/week6/comunicacao.pdf), by Maíra Bahia
+
+ 
 ## Required
 *Mandatory resources.*
 

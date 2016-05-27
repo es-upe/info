@@ -5,6 +5,18 @@ Week running from May 20 to May 27.
 ## Required
 *Mandatory resources.*
 
+#### Papers select by the students
+
+* Alexandre: Quality experience: a grounded theory of successful agile projects without dedicated testers [($$)](http://dl.acm.org/citation.cfm?id=2884789).
+* Cinthya: Are "non-functional" requirements really non-functional?: an investigation of non-functional requirements in practice [($$)](http://dl.acm.org/citation.cfm?id=2884788).
+* Daniel: [Augmenting API Documentation with Insights from Stack Overflow](https://hekyll.services.adelaide.edu.au/dspace/bitstream/2440/98061/3/hdl_98061.pdf).
+* Denise: [Code Review Quality: How Developers See It](http://cormack.uwaterloo.ca/~migod/papers/2016/icse16.pdf).
+* Valdenia: [How Does Regression Test Prioritization Perform in Real-World Software Evolution?](https://peerj.com/preprints/1467.pdf).
+* Vanessa: [The Challenges of Staying Together While Moving Fast: An Exploratory Study](https://people.csail.mit.edu/mjulia/publications/The_Challenges_of_Staying_Together_While_Moving_Fast_2016.pdf).
+* Taynã: [The impact of test case summaries on bug fixing performance: An empirical investigation](https://peerj.com/preprints/1467.pdf).
+
+#### Original info
+
 This week we are trying something even more different: each student will select and read 1 paper from [ICSE 2016 (main track)](http://dblp.uni-trier.de/db/conf/icse/icse2016.html).
 Each student must select a different paper. Once you select a paper to read you have to [announce it on this issue](https://github.com/es-upe/info/issues/19).
 

@@ -5,13 +5,14 @@ Week running from May 27 to June 3.
 ## Required
 *Mandatory resources.*
 
-* [Mining questions about software energy consumption](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.438.8305&rep=rep1&type=pdf). By Gustavo Pinto, Fernando Castor, Yu David Liu. *Paper suggested by Fernando Castor*
-* [Native or Web? A Preliminary Study on the Energy Consumption of Android Development Models](https://sites.google.com/a/cin.ufpe.br/castor/saner_2016_Javascript_final.pdf?attredirects=0&d=1). By Wellington Oliveira, Weslley Torres, Fernando Castor, Bianca H. Ximenes. *Paper suggested by Fernando Castor*
+* [Mining questions about software energy consumption](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.438.8305&rep=rep1&type=pdf), by Gustavo Pinto, Fernando Castor, Yu David Liu. *Paper suggested by Fernando Castor*
+* [Native or Web? A Preliminary Study on the Energy Consumption of Android Development Models](https://sites.google.com/a/cin.ufpe.br/castor/saner_2016_Javascript_final.pdf?attredirects=0&d=1), by Wellington Oliveira, Weslley Torres, Fernando Castor, Bianca H. Ximenes. *Paper suggested by Fernando Castor*
 
 ## *Extra*
 *Recommended resources for the interested students*
 
-* tbd
+* [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf), by S. Keshav
+* [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf), by Paul Luo Li, Andrew J. Ko, Jiamin Zhu
 
 
 ## *Student suggestions*

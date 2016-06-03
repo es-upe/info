@@ -13,6 +13,7 @@ Week running from May 27 to June 3.
 
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf), by S. Keshav
 * [What Makes A Great Software Engineer?](https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf), by Paul Luo Li, Andrew J. Ko, Jiamin Zhu
+* [What little habits made you a better software engineer?](https://www.quora.com/What-little-habits-made-you-a-better-software-engineer) on Quora. *I only glanced at this one, could anyone give it a thumbs up/thumbs down?*
 
 
 ## *Student suggestions*
